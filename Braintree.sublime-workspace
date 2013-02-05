@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rol",
+				"role_user"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"l",
+				"LINK	Tag"
+			],
+			[
+				"ma",
+				"manager_id"
+			],
+			[
+				"include",
+				"includes"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"C",
+				"Customer"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"mo",
+				"model_value"
+			],
+			[
+				"no",
+				"note"
+			],
+			[
+				"cli",
+				"client_requirement"
+			],
+			[
+				"new",
+				"new_notes"
+			],
+			[
+				"be",
+				"before_filter"
+			],
+			[
+				"v",
+				"visited_location_id"
+			],
+			[
+				"st",
+				"status_id"
+			],
+			[
+				"lo",
+				"location"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sn",
+				"Snippet: Create controller class"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"file",
+				"File: Close All"
+			],
+			[
+				"f",
+				"File: Revert"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"xml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/user/Rails/Asian_trading_company/Asian_trading/asian.sublime-project",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/Backbone.sublime-project",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/config/initializers/session_store.rb",
+		"/home/user/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/config/environments/production.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/assets/javascripts/application.js",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/Gemfile",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/search_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/search/index.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/models/role.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/customers_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/assets/javascripts/customers.js",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/manager_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/admin/list_admin.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/db/migrate/20121106162710_change_customers.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/admin/list_users.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/admin/set_manager.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/manager/list_employees_manager.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/admin/list_employee.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/admin/list_employees_manager.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/admin/list_manager.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/customers/show.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/db/migrate/20120929152631_create_customers.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/customers/index.xlsx.axlsx",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/application_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/test/test_helper.rb",
+		"/home/user/Desktop/JQuery-plugin/index.html",
+		"/home/user/Desktop/JQuery-plugin/jquery-1.7.1.js",
+		"/home/user/Desktop/JQuery-plugin/Jquery-plugin.sublime-workspace",
+		"/home/user/Desktop/JQuery-plugin/Jquery-plugin.sublime-project",
+		"/var/www/yuva27/beta1/correct2.php",
+		"/var/www/yuva27/beta1/correct.php",
+		"/var/www/yuva27/beta1/CAlert.php",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/models/customer.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/manager/list_customers.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/db/migrate/20121103074613_create_payment_types.rb",
+		"/home/user/Desktop/JQuery-plugin/jquery-plugin.js",
+		"/home/user/Desktop/JQuery-plugin/index.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/models/user.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/admin_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/config/routes.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/config/routes.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/layouts/application.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/models/settings_pagination.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/settings/index.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/controllers/settings_controller.rb",
+		"/home/user/Documents/asian/bbc_dump.sql",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/shared/_contact_info.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/helpers/contacts_helper.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/controllers/contacts_controller.rb",
+		"/home/user/Documents/asian/PPF_",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/controllers/reports_controller.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/units/unit_details.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/contact_overview.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/historic_tenants.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/linked_as_owner.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/linked_as_vendor.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/new_notes.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/public_record.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/unit_details.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_property_retail.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_property_office.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_property_multifamily.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_property_land.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_property_industry.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/basic_info.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/property_overview.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_property_accordion_list.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/shared/_property_info.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/unit_list.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_multifamily .html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_multifamily.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_retail.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_office.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_land.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_industry.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/controllers/properties_controller.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_basic_info.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/properties/_detailed_info.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/contacts/index.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/controllers/client_requirements_controller.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/views/client_requirements/edit_basic_info.html.erb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/models/client_requirement.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/models/property.rb",
+		"/home/user/Rails/QBurst/WFH/brokersoft/trunk/BBC/app/models/contact.rb",
+		"/home/user/Python-Exp/first.py",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/shared/_sidebar_contact.html.erb",
+		"/home/user/Rails/QBurst/BBC-codebase/app/controllers/contacts_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/search/_condition_fields.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/layouts/_admin.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/helpers/application_helper.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/assets/javascripts/search.js.coffee",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/registration_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/db/seeds.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/db/migrate/20121014053740_add_address_to_contact.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/customers/next_followup.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/employee/list_customers.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/customers/index.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/customers/_form.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/models/next_followup.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/models/followup.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/layouts/_manager.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/layouts/application.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/customers/index.xls.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/employee_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/layouts/_employee.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/manager/list_customers_employee.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/config/routes.rb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/layouts/application.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/controllers/home_controller.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/app/views/home/index.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/shared/_actionitem.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/controllers/application_controller.rb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/shared/_note.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/contacts/_note.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/contacts/_document.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/models/note.rb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/models/client_requirement.rb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/controllers/contacts_controller.rb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/client_requirements/_add_notes.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/client_requirements/new_notes.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/client_requirements/_add_actionitems.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/client_requirements/new_actionitems.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/controllers/client_requirements_controller.rb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/client_requirements/index.html.erb",
+		"/home/user/Rails/QBurst/brokersoft/trunk/BBC/app/views/contacts/_add_notes.html.erb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/config/application.rb",
+		"/home/user/Rails/Asian_trading_company/Asian_trading/config/initializers/mime_types.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"type=\"text/javascript\"",
+			"lib",
+			"sdsdfsdf:",
+			"<div class=\"span1\">sdsdfsdf:</div>",
+			"<b",
+			"value</div>",
+			"Credit_days",
+			"create",
+			"render",
+			"setting",
+			"new",
+			"client_requirement",
+			"print",
+			"//Report/block/@userIdLabel",
+			"/Report/@caption",
+			"new",
+			"/delete",
+			"join",
+			"user_r",
+			"rol",
+			"role",
+			"<div",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"search/in",
+				"app/views/search/index.html.erb"
+			],
+			[
+				"mi/",
+				"db/migrate/20120929152631_create_customers.rb"
+			],
+			[
+				"corre2",
+				"correct2.php"
+			],
+			[
+				"corr",
+				"correct2.php"
+			],
+			[
+				"corre",
+				"correct.php"
+			],
+			[
+				"con/ro",
+				"config/routes.rb"
+			],
+			[
+				"side",
+				"BBC/app/views/shared/_sidebar_contact.html.erb"
+			],
+			[
+				"contactco",
+				"BBC-codebase/app/controllers/contacts_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/user/Rails/Asian_trading_company/Asian_trading/asian.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true
+}
